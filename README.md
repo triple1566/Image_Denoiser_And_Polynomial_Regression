@@ -20,9 +20,6 @@ Installation
 
 To get started with this project, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/polynomial-regression.git
-cd polynomial-regression
-
 Then, install the required dependencies using pip:
 
 pip install -r requirements.txt
