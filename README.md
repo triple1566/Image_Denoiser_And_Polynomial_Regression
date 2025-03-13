@@ -71,14 +71,3 @@ Methods:
 Results
 
 This project provides a visual output of the fitted polynomial curve. The plot below shows the polynomial fit to the sample dataset of X vs Y.
-
-Example plot (Degree 2 Polynomial):
-
-Contributing
-
-We welcome contributions to this project! To contribute:
-	1.	Fork the repository.
-	2.	Create a new branch for your feature or bugfix.
-	3.	Make your changes.
-	4.	Test your changes.
-	5.	Submit a pull request.
