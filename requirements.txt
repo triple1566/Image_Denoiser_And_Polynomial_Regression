@@ -1,0 +1,4 @@
+numpy
+poly_reg
+pickle5
+matplotlib

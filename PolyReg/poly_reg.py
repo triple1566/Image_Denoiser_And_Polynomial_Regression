@@ -1,7 +1,3 @@
-"""
-CSCC11 - Introduction to Machine Learning, Assignment 1 Q1
-"""
-
 import numpy as np
 
 class PolynomialRegression:
